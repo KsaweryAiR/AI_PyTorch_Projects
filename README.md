@@ -83,4 +83,11 @@ Image-based multi-task learning pipeline using the UTKFace dataset to simultaneo
 The model is built on a fine-tuned ResNet-50 (`timm/resnet50`) and uses tailored image transformations for improved performance across tasks.
 
 ---
+### 11. `11_YOLO_Object_Detection_Bounding_Boxes.ipynb`  
+**Vehicle Detection with YOLOv5 (Bounding Boxes)**  
+Object detection using a YOLOv11s model (`yolo11s.pt`) to locate and classify vehicles in images. The notebook demonstrates:
+- Loading and running a pre-trained YOLO model
+- Drawing bounding boxes around detected vehicles
+- Interpreting detection confidence and class predictions
 
+---
