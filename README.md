@@ -44,6 +44,17 @@ Text classification using a fine-tuned BERT model (`google-bert/bert-base-uncase
 
 ---
 
+### 10. `10_Multi_Task_Learning.ipynb`  
+**Age, Gender & Race Estimation (UTKFace, Multi-Task Learning)**  
+Image-based multi-task learning pipeline using the UTKFace dataset to simultaneously predict three facial attributes:
+- Age (regression)
+- Gender (binary classification)
+- Race (multi-class classification)
+
+The model is built on a fine-tuned ResNet-50 (`timm/resnet50`) and uses tailored image transformations for improved performance across tasks.
+
+---
+
 ## 🛠 Technologies
 
 - Python 3.x  
