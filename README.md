@@ -6,6 +6,33 @@ This repository contains several machine learning projects using different data 
 
 ## 📁 Notebooks Overview
 
+### 1. `01_Lightning_CNN.ipynb`  
+**CNN Classifier on CIFAR-10 (PyTorch Lightning)**  
+Introduction to deep convolutional neural networks using the CIFAR-10 dataset. The notebook covers:
+- Basic CNN architecture design in PyTorch
+- Training pipeline using PyTorch Lightning
+- Evaluation on image classification task with 10 object categories
+
+---
+
+### 2. `02_Lightning_Data_Augmentation.ipynb`  
+**Image Classification with Limited Data (Data Augmentation)**  
+Image classification using convolutional neural networks in scenarios with limited data availability. The notebook demonstrates how to apply data augmentation techniques to improve model generalization and performance.
+
+---
+
+### 3. `03_Lightning_Classification.ipynb`  
+**Extended Image Classification (Cats vs Dogs Dataset)**  
+Further exploration of image classification using convolutional neural networks, applied to the Cats vs Dogs dataset. The notebook expands on previous concepts with enhanced data handling and model training techniques.
+
+---
+
+### 4. `04_Lightning_Segmentation.ipynb`  
+**Image Segmentation (Dog Mask Prediction)**  
+Neural networks applied to image segmentation tasks. The goal is to input an image and output a segmentation mask highlighting the dog in the picture.
+
+---
+
 ### 5. `05_Tabular_Data_Classification.ipynb`
 **Rice Type Classification**  
 Binary classification of rice grain types using structured tabular data. Dataset contains modified labels: Jasmine = 1, Gonen = 0.
