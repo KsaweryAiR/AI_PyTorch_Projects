@@ -82,14 +82,3 @@ The model is built on a fine-tuned ResNet-50 (`timm/resnet50`) and uses tailored
 
 ---
 
-## 🛠 Technologies
-
-- Python 3.x  
-- Jupyter Notebook  
-- PyTorch (depending on the notebook)  
-- BERT (Hugging Face Transformers)  
-- GoogLeNet (TorchVision)
-
----
-
-
