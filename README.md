@@ -2,6 +2,7 @@
 
 This repository contains several machine learning projects using different data types: tabular, image, audio, and text. Each project is implemented in a separate Jupyter Notebook.
 
+<img src="logo/Pytorch_logo.png" style="width: 20%; height: 20%;" alt="mapa 1" />  
 ---
 
 ## 📁 Notebooks Overview
