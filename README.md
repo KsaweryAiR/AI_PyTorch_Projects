@@ -35,6 +35,17 @@ Neural networks applied to image segmentation tasks. The goal is to input an ima
 
 ---
 
+### 5. `05_Neural_network_optimization_methods.ipynb`  
+**Neural Network Optimization Techniques (with ONNX)**  
+Overview of common methods used to accelerate computations and optimize neural network models, including:
+- Quantization and pruning
+- Layer fusion and weight clustering
+- Knowledge distillation and low-rank factorization
+- Parallel and asynchronous processing  
+The notebook also demonstrates exporting and optimizing models using **ONNX**.
+
+---
+
 ### 6. `06_Tabular_Data_Classification.ipynb`
 **Rice Type Classification**  
 Binary classification of rice grain types using structured tabular data. Dataset contains modified labels: Jasmine = 1, Gonen = 0.
